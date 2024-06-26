@@ -31,7 +31,7 @@
 
 - Clone the repository
 ```bash
-git clone https://github.com/yourusername/rulebot.git
+git clone https://github.com/pranav-iiitdm/rulebot.git
 ```
 
 - Install dependencies
