@@ -2,10 +2,10 @@
 
 **Instantly decode Formula 1 and Cricket regulations with AI-powered precision!**
 
-• [Features](#features) 
-• [Technology Stack](#techstack) 
-• [Installation](#installation) 
-• [Usage](#usage)
+• [Features](#-features) 
+• [Technology Stack](#-techstack) 
+• [Installation](#-installation) 
+• [Usage](#-usage)
 
 ## 🌟 Features
 
