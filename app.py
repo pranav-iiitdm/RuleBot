@@ -168,7 +168,7 @@ if final_documents:
 
 # Initialize the language model
 llm = ChatGroq(
-    groq_api_key='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',
+    groq_api_key='...',
     model_name="Llama3-8b-8192"
 )
 
